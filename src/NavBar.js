@@ -22,7 +22,7 @@ export default function NavBar(props) {
 
     return (
         <div className="navbar">
-        <h1>Find Food NYC</h1>
+        <h1>Boston Parking</h1>
         <div className="navbar-links">
             <a href = 'https://www1.nyc.gov/site/coronavirus/index.page' target="_blank" rel="noopener noreferrer"> COVID-19 Info</a>
             <a href = 'https://a069-access.nyc.gov/accesshra/' target="_blank" rel="noopener noreferrer"> ACCESS HRA</a>

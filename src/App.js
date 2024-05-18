@@ -3,11 +3,13 @@ import ReactMapGL from 'react-map-gl'
 import Geocoder from 'react-map-gl-geocoder'
 import { useForm } from "react-hook-form";
 import foodData from "./food-map-data.json"
+import parkingData from "./meter.json"
 import CheckboxMenu from './Checkbox'
 import NavBar from './NavBar'
 import PopCard from './PopCard'
 import MapControls from './MapControls'
 import MarkerCard from './MarkerCard'
+import ParkingCard from './ParkingCard'
 import InfoWindow from './InfoWindow'
 
 import './App.css';
@@ -18,9 +20,11 @@ const App = () => {
 
   //Setting up viewport and geocoder
   const [viewport, setViewport] = useState({
-    latitude: 40.7128,
-    longitude: -74.0060152,
-    zoom: 11,
+    // latitude: 40.7128,
+    // longitude: -74.0060152,
+    latitude: 42.343639,
+    longitude: -71.094861,
+    zoom: 14,
   });
 
   const mapRef = useRef();
@@ -91,7 +95,7 @@ const App = () => {
   };
 
   //Markers
-  const [selectedFood, setSelectedFood] = useState(null)
+  const [selectedFood, setSelectedFood, selectedSpot, setSelectedSpot] = useState(null)
   
   useEffect(() => {
       const listner = (e) => {
@@ -132,6 +136,16 @@ const App = () => {
             state = {state}
           />
         ))}
+
+        {parkingData.map((spot, index) => (
+          <ParkingCard 
+            key = {index}
+            spot = {spot}
+            setSelectedSpot = {setSelectedSpot}
+            state = {state}
+          />
+        ))}
+
 
         {selectedFood ? (
           <PopCard 
