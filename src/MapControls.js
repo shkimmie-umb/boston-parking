@@ -13,8 +13,8 @@ export default function MapControls(props){
 
       const resetMap = () => {
           setViewport({
-            latitude: 40.7128, //40.7127281
-            longitude: -74.0060152, //74.0060
+            latitude: 42.343639, //40.7127281
+            longitude: -71.094861, //74.0060
             zoom: 11
           })
       }

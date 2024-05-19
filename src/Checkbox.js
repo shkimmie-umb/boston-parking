@@ -1,9 +1,14 @@
 import React, {useState} from "react";
-import groceryIcon from './images/grocery.svg'
-import greenIcon from './images/green.svg'
-import soupIcon from './images/soup.svg'
-import grabIcon from './images/grab.svg'
-import foodPantryIcon from './images/foodpantry.svg'
+// import groceryIcon from './images/grocery.svg'
+// import greenIcon from './images/green.svg'
+// import soupIcon from './images/soup.svg'
+// import grabIcon from './images/grab.svg'
+// import foodPantryIcon from './images/foodpantry.svg'
+import parkingMeterIcon from './images/parkingmeter.svg'
+import snowGarageIcon from './images/snowgarage.svg'
+import streetSweepingIcon from './images/streetcleaning.svg'
+import hitAndRunIcon from './images/leavingscene.svg'
+import vandalismIcon from './images/vandalism.svg'
 import { FaAngleDoubleDown,  FaAngleDoubleUp} from 'react-icons/fa'
 
 export default function CheckboxMenu(props) {
@@ -39,6 +44,35 @@ export default function CheckboxMenu(props) {
         <div className = 'checkbox-input-container' style = {{display : UpAndDown()}}>
         <form onSubmit={handleSubmit(onSubmit)} className ='checkbox-form'>
             <div className = 'check'>
+                <input type = 'checkbox' name ='meter' ref={register}/>
+                <label className = 'menu'> Meters</label >
+                <img src = {parkingMeterIcon} alt ="Parking Meter Icon"/>
+            </div>
+
+            <div className = 'check'>
+                <input type = 'checkbox' name ='snow_garage' ref={register}/>
+                <label className = 'menu'> Garages</label >
+                <img src = {snowGarageIcon} alt ="Snow Garage Icon"/>
+            </div>
+
+            <div className = 'check'>
+                <input type = 'checkbox' name ='street_sweeping' ref={register}/>
+                <label className = 'menu'> St. Cleaning</label >
+                <img src = {streetSweepingIcon} alt ="Street Sweeping Icon"/>
+            </div>
+
+            <div className = 'check'>
+                <input type = 'checkbox' name ='leaving_scene' ref={register}/>
+                <label className = 'menu'> Hit and Run</label >
+                <img src = {hitAndRunIcon} alt ="Hit and Run Icon"/>
+            </div>
+
+            <div className = 'check'>
+                <input type = 'checkbox' name ='vandalism' ref={register}/>
+                <label className = 'menu'> Vandalism</label >
+                <img src = {vandalismIcon} alt ="Vandalism Icon"/>
+            </div>
+            {/* <div className = 'check'>
                 <input type = 'checkbox' name ='free' ref={register}/>
                 <label className = 'menu'> Free</label >
             </div>
@@ -91,7 +125,7 @@ export default function CheckboxMenu(props) {
                 <input type = 'checkbox' name ='SoupKitchen' ref={register}/>
                 <label className = 'menu'>Soup Kitchen</label>
                 <img src = {soupIcon} alt ="Food Icon"/>
-            </div>
+            </div> */}
             
             <div className= 'check-submit'>
                 <button type="submit">Submit</button>

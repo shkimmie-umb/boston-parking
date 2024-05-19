@@ -7,8 +7,8 @@ import {Marker} from 'react-map-gl'
 // import foodPantryIcon from './images/foodpantry.svg'
 import meterIcon from './images/parkingmeter.svg'
 
-export default function ParkingCard(props){
-    const {spot, setSelectedSpot, getCord, state} = props
+export default function ParkingMarkerCard(props){
+    const {spot, setSelectedSpot, state} = props
 
     const getIcon = (type) => {
         let icon;
@@ -21,14 +21,12 @@ export default function ParkingCard(props){
         return icon
     }
 
-    const hideOrShow = (type, cost, status) => {
-        status = JSON.parse(status)
-        if(state.status && !status) return 'none'
-        if(!state[type]) return "none"
-        if(cost === 'FREE' && !state.free) return 'none'
-        if(cost === '$' && !state.$) return 'none'
-        if(cost === '$$' && !state.$$) return 'none'
-        if(cost === '$$$' && !state.$$$) return 'none'
+    const hideOrShow = (type) => {
+        if(type === 'meter' && !state.meter) return 'none'
+        if(type === 'snow_garage' && !state.snow_garage) return 'none'
+        if(type === 'street_sweeping' && !state.street_sweeping) return 'none'
+        if(type === 'leaving_scene' && !state.leaving_scene) return 'none'
+        if(type === 'vandalism' && !state.vandalism) return 'none'
         else return "block"
     }
     return(
@@ -36,7 +34,7 @@ export default function ParkingCard(props){
             latitude = {spot.LATITUDE} 
             longitude = {spot.LONGITUDE}>
             <button 
-              // style = {{display: hideOrShow(spot.type, spot.cost, spot.status)}}
+              style = {{display: hideOrShow(spot.TYPE)}}
               className = "marker-btn" onClick = {e => {
                 e.preventDefault()
                 setSelectedSpot(spot)

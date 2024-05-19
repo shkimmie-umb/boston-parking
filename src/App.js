@@ -7,9 +7,10 @@ import parkingData from "./meter.json"
 import CheckboxMenu from './Checkbox'
 import NavBar from './NavBar'
 import PopCard from './PopCard'
+import ParkingPopCard from './ParkingPopCard'
 import MapControls from './MapControls'
 import MarkerCard from './MarkerCard'
-import ParkingCard from './ParkingCard'
+import ParkingMarkerCard from './ParkingMarkerCard'
 import InfoWindow from './InfoWindow'
 
 import './App.css';
@@ -50,52 +51,81 @@ const App = () => {
   }
 
   //Menu Components
+  // const [state, setState] = useState({
+  //   free: true,
+  //   $: true,
+  //   $$: true,
+  //   $$$: true,
+  //   status: false,
+  //   Greenmarket: true,
+  //   Grocery: true,
+  //   GrabAndGo: true,
+  //   FoodPantry: true,
+  //   SoupKitchen: true,
+  //   closeInfoBar: false
+  // })
   const [state, setState] = useState({
-    free: true,
-    $: true,
-    $$: true,
-    $$$: true,
-    status: false,
-    Greenmarket: true,
-    Grocery: true,
-    GrabAndGo: true,
-    FoodPantry: true,
-    SoupKitchen: true,
-    closeInfoBar: false
+    meter: true,
+    snow_garage: true,
+    street_sweeping: true,
+    leaving_scene: true,
+    vandalism: true
   })
 
+
+  // const { register, handleSubmit } = useForm({
+  //   defaultValues: {
+  //     free: true,
+  //     $: true,
+  //     $$: true,
+  //     $$$: true,
+  //     status: false,
+  //     Greenmarket: true,
+  //     Grocery: true,
+  //     GrabAndGo: true,
+  //     FoodPantry: true,
+  //     SoupKitchen: true
+  //   }
+  // });
   const { register, handleSubmit } = useForm({
     defaultValues: {
-      free: true,
-      $: true,
-      $$: true,
-      $$$: true,
-      status: false,
-      Greenmarket: true,
-      Grocery: true,
-      GrabAndGo: true,
-      FoodPantry: true,
-      SoupKitchen: true
+      meter: true,
+      snow_garage: true,
+      street_sweeping: true,
+      leaving_scene: true,
+      vandalism: true
     }
   });
 
+
+  // const onSubmit = data => {
+  //   setState({
+  //     free: data.free,
+  //     $: data.$,
+  //     $$: data.$$,
+  //     $$$: data.$$$,
+  //     status: data.status,
+  //     Greenmarket: data.Greenmarket,
+  //     Grocery: data.Grocery,
+  //     GrabAndGo: data.GrabAndGo,
+  //     FoodPantry: data.FoodPantry,
+  //     SoupKitchen: data.SoupKitchen
+  //   })
+  // };
   const onSubmit = data => {
     setState({
-      free: data.free,
-      $: data.$,
-      $$: data.$$,
-      $$$: data.$$$,
-      status: data.status,
-      Greenmarket: data.Greenmarket,
-      Grocery: data.Grocery,
-      GrabAndGo: data.GrabAndGo,
-      FoodPantry: data.FoodPantry,
-      SoupKitchen: data.SoupKitchen
+      meter: data.meter,
+      snow_garage: data.snow_garage,
+      street_sweeping: data.street_sweeping,
+      leaving_scene: data.leaving_scene,
+      vandalism: data.vandalism
     })
   };
 
+
   //Markers
-  const [selectedFood, setSelectedFood, selectedSpot, setSelectedSpot] = useState(null)
+  const [selectedFood, setSelectedFood] = useState(null)
+  const [selectedSpot, setSelectedSpot] = useState(null)
   
   useEffect(() => {
       const listner = (e) => {
@@ -127,7 +157,7 @@ const App = () => {
         mapboxApiAccessToken="pk.eyJ1Ijoic2hraW1taWUiLCJhIjoiY2x3NzljaXFkMWNlZjJqcGZ6dTcwbTI4biJ9.mrf2iqSuC7WR32PqdQh1eA"
       >
 
-        {foodData.map((food, index) => (
+        {/* {foodData.map((food, index) => (
           <MarkerCard 
             key = {index}
             food = {food}
@@ -135,25 +165,35 @@ const App = () => {
             getCord = {getCord}
             state = {state}
           />
-        ))}
+        ))} */}
 
+        {/* {selectedFood ? (
+          <PopCard 
+            getCord = {getCord} 
+            setSelectedFood ={setSelectedFood} 
+            selectedFood = {selectedFood}
+          />
+        ) : null} */}
+
+        {/* Meter icons */}
         {parkingData.map((spot, index) => (
-          <ParkingCard 
+          <ParkingMarkerCard 
             key = {index}
             spot = {spot}
             setSelectedSpot = {setSelectedSpot}
             state = {state}
           />
         ))}
-
-
-        {selectedFood ? (
-          <PopCard 
-            getCord = {getCord} 
-            setSelectedFood ={setSelectedFood} 
-            selectedFood = {selectedFood}
+        {/* Meter popup */}
+        {selectedSpot ? (
+          <ParkingPopCard 
+            setSelectedSpot ={setSelectedSpot} 
+            selectedSpot = {selectedSpot}
           />
         ) : null}
+
+
+        
 
         <div className = 'left-side'>
           <MapControls setViewport = {setViewport} 

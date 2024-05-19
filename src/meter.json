@@ -6,6 +6,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":6.0,
         "TYPE":"meter"
     },
     {
@@ -15,6 +16,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":6.0,
         "TYPE":"meter"
     },
     {
@@ -24,6 +26,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":6.0,
         "TYPE":"meter"
     },
     {
@@ -33,6 +36,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -42,6 +46,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":6.0,
         "TYPE":"meter"
     },
     {
@@ -51,6 +56,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -60,6 +66,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -69,6 +76,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -78,6 +86,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -87,6 +96,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -96,6 +106,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -105,6 +116,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -114,6 +126,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -123,6 +136,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -132,6 +146,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -141,6 +156,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -150,6 +166,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -159,6 +176,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -168,6 +186,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -177,6 +196,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -186,6 +206,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -195,6 +216,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -204,6 +226,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":6.0,
         "TYPE":"meter"
     },
     {
@@ -213,6 +236,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -222,6 +246,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -231,6 +256,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -240,6 +266,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -249,6 +276,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -258,6 +286,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":102.0,
         "TYPE":"meter"
     },
     {
@@ -267,6 +296,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":7.0,
         "TYPE":"meter"
     },
     {
@@ -276,6 +306,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":108.0,
         "TYPE":"meter"
     },
     {
@@ -285,6 +316,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -294,6 +326,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":3.0,
         "TYPE":"meter"
     },
     {
@@ -303,6 +336,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -312,6 +346,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -321,6 +356,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -330,6 +366,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -339,6 +376,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -348,6 +386,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":6.0,
         "TYPE":"meter"
     },
     {
@@ -357,6 +396,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -366,6 +406,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -375,6 +416,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":2.0,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -384,6 +426,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -393,6 +436,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -402,6 +446,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -411,6 +456,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -420,6 +466,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -429,6 +476,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":1.0,
         "TYPE":"meter"
     },
     {
@@ -438,6 +486,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -447,6 +496,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":53.0,
         "TYPE":"meter"
     },
     {
@@ -456,6 +506,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -465,6 +516,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":7.0,
         "TYPE":"meter"
     },
     {
@@ -474,6 +526,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":58.0,
         "TYPE":"meter"
     },
     {
@@ -483,6 +536,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":52.0,
         "TYPE":"meter"
     },
     {
@@ -492,6 +546,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":131.0,
         "TYPE":"meter"
     },
     {
@@ -501,6 +556,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":49.0,
         "TYPE":"meter"
     },
     {
@@ -510,6 +566,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":13.0,
         "TYPE":"meter"
     },
     {
@@ -519,6 +576,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -528,6 +586,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":3.0,
         "TYPE":"meter"
     },
     {
@@ -537,6 +596,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-FRI $0.25 120, 08:00AM-08:00PM SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-FRI, 08:00PM-24:00AM SAT",
         "BASE_RATE":0.25,
+        "COUNTS":7.0,
         "TYPE":"meter"
     },
     {
@@ -546,6 +606,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":26.0,
         "TYPE":"meter"
     },
     {
@@ -555,6 +616,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":16.0,
         "TYPE":"meter"
     },
     {
@@ -564,6 +626,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":135.0,
         "TYPE":"meter"
     },
     {
@@ -573,6 +636,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":143.0,
         "TYPE":"meter"
     },
     {
@@ -582,6 +646,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":33.0,
         "TYPE":"meter"
     },
     {
@@ -591,6 +656,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":87.0,
         "TYPE":"meter"
     },
     {
@@ -600,6 +666,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":54.0,
         "TYPE":"meter"
     },
     {
@@ -609,6 +676,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":12.0,
         "TYPE":"meter"
     },
     {
@@ -618,6 +686,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":70.0,
         "TYPE":"meter"
     },
     {
@@ -627,6 +696,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":14.0,
         "TYPE":"meter"
     },
     {
@@ -636,6 +706,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":19.0,
         "TYPE":"meter"
     },
     {
@@ -645,6 +716,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":4.0,
         "TYPE":"meter"
     },
     {
@@ -654,6 +726,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -663,6 +736,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":33.0,
         "TYPE":"meter"
     },
     {
@@ -672,6 +746,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":9.0,
         "TYPE":"meter"
     },
     {
@@ -681,6 +756,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":16.0,
         "TYPE":"meter"
     },
     {
@@ -690,6 +766,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":13.0,
         "TYPE":"meter"
     },
     {
@@ -699,6 +776,7 @@
         "PAY_POLICY":"10:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-10:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":56.0,
         "TYPE":"meter"
     },
     {
@@ -708,6 +786,7 @@
         "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120, 09:30AM-04:00PM MON-FRI $0.25 120, 06:00PM-08:00PM MON-FRI $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":39.0,
         "TYPE":"meter"
     },
     {
@@ -717,6 +796,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":243.0,
         "TYPE":"meter"
     },
     {
@@ -726,6 +806,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":21.0,
         "TYPE":"meter"
     },
     {
@@ -735,6 +816,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":31.0,
         "TYPE":"meter"
     },
     {
@@ -744,6 +826,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":65.0,
         "TYPE":"meter"
     },
     {
@@ -753,6 +836,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":35.0,
         "TYPE":"meter"
     },
     {
@@ -762,6 +846,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -771,6 +856,7 @@
         "PAY_POLICY":"11:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-11:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -780,6 +866,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":14.0,
         "TYPE":"meter"
     },
     {
@@ -789,6 +876,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":42.0,
         "TYPE":"meter"
     },
     {
@@ -798,6 +886,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":8.0,
         "TYPE":"meter"
     },
     {
@@ -807,6 +896,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":46.0,
         "TYPE":"meter"
     },
     {
@@ -816,6 +906,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":48.0,
         "TYPE":"meter"
     },
     {
@@ -825,6 +916,7 @@
         "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120, 09:30AM-08:00PM MON-FRI $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":49.0,
         "TYPE":"meter"
     },
     {
@@ -834,6 +926,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":49.0,
         "TYPE":"meter"
     },
     {
@@ -843,6 +936,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":34.0,
         "TYPE":"meter"
     },
     {
@@ -852,6 +946,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":31.0,
         "TYPE":"meter"
     },
     {
@@ -861,6 +956,7 @@
         "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -870,6 +966,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":10.0,
         "TYPE":"meter"
     },
     {
@@ -879,6 +976,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":11.0,
         "TYPE":"meter"
     },
     {
@@ -888,6 +986,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":22.0,
         "TYPE":"meter"
     },
     {
@@ -897,6 +996,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":221.0,
         "TYPE":"meter"
     },
     {
@@ -906,6 +1006,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":22.0,
         "TYPE":"meter"
     },
     {
@@ -915,6 +1016,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":27.0,
         "TYPE":"meter"
     },
     {
@@ -924,6 +1026,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":3.0,
         "TYPE":"meter"
     },
     {
@@ -933,6 +1036,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":15.0,
         "TYPE":"meter"
     },
     {
@@ -942,6 +1046,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":3.0,
         "TYPE":"meter"
     },
     {
@@ -951,6 +1056,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":8.0,
         "TYPE":"meter"
     },
     {
@@ -960,6 +1066,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":30.0,
         "TYPE":"meter"
     },
     {
@@ -969,6 +1076,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":42.0,
         "TYPE":"meter"
     },
     {
@@ -978,6 +1086,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":10.0,
         "TYPE":"meter"
     },
     {
@@ -987,6 +1096,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":23.0,
         "TYPE":"meter"
     },
     {
@@ -996,6 +1106,7 @@
         "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120, 09:30AM-04:00PM MON-FRI $0.25 120, 06:00PM-08:00PM MON-FRI $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":33.0,
         "TYPE":"meter"
     },
     {
@@ -1005,6 +1116,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":219.0,
         "TYPE":"meter"
     },
     {
@@ -1014,6 +1126,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":10.0,
         "TYPE":"meter"
     },
     {
@@ -1023,6 +1136,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":72.0,
         "TYPE":"meter"
     },
     {
@@ -1032,6 +1146,7 @@
         "PAY_POLICY":"09:00AM-05:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:00AM MON-SAT, 05:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":37.0,
         "TYPE":"meter"
     },
     {
@@ -1041,6 +1156,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -1050,6 +1166,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":10.0,
         "TYPE":"meter"
     },
     {
@@ -1059,6 +1176,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":20.0,
         "TYPE":"meter"
     },
     {
@@ -1068,6 +1186,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":15.0,
         "TYPE":"meter"
     },
     {
@@ -1077,6 +1196,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":25.0,
         "TYPE":"meter"
     },
     {
@@ -1086,6 +1206,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":146.0,
         "TYPE":"meter"
     },
     {
@@ -1095,6 +1216,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":82.0,
         "TYPE":"meter"
     },
     {
@@ -1104,6 +1226,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":3.0,
         "TYPE":"meter"
     },
     {
@@ -1113,6 +1236,7 @@
         "PAY_POLICY":"08:00AM-06:00PM SAT $0.25 120, 09:30AM-06:00PM MON-FRI $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":31.0,
         "TYPE":"meter"
     },
     {
@@ -1122,6 +1246,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":18.0,
         "TYPE":"meter"
     },
     {
@@ -1131,6 +1256,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":151.0,
         "TYPE":"meter"
     },
     {
@@ -1140,6 +1266,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":22.0,
         "TYPE":"meter"
     },
     {
@@ -1149,6 +1276,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -1158,6 +1286,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":89.0,
         "TYPE":"meter"
     },
     {
@@ -1167,6 +1296,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":7.0,
         "TYPE":"meter"
     },
     {
@@ -1176,6 +1306,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":28.0,
         "TYPE":"meter"
     },
     {
@@ -1185,6 +1316,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":26.0,
         "TYPE":"meter"
     },
     {
@@ -1194,6 +1326,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":721.0,
         "TYPE":"meter"
     },
     {
@@ -1203,6 +1336,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":29.0,
         "TYPE":"meter"
     },
     {
@@ -1212,6 +1346,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":482.0,
         "TYPE":"meter"
     },
     {
@@ -1221,6 +1356,7 @@
         "PAY_POLICY":"04:00PM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-04:00PM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":175.0,
         "TYPE":"meter"
     },
     {
@@ -1230,6 +1366,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":16.0,
         "TYPE":"meter"
     },
     {
@@ -1239,6 +1376,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":55.0,
         "TYPE":"meter"
     },
     {
@@ -1248,6 +1386,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":57.0,
         "TYPE":"meter"
     },
     {
@@ -1257,6 +1396,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":72.0,
         "TYPE":"meter"
     },
     {
@@ -1266,6 +1406,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":18.0,
         "TYPE":"meter"
     },
     {
@@ -1275,6 +1416,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":55.0,
         "TYPE":"meter"
     },
     {
@@ -1284,6 +1426,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":41.0,
         "TYPE":"meter"
     },
     {
@@ -1293,6 +1436,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":5.0,
         "TYPE":"meter"
     },
     {
@@ -1302,6 +1446,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":8.0,
         "TYPE":"meter"
     },
     {
@@ -1311,6 +1456,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":35.0,
         "TYPE":"meter"
     },
     {
@@ -1320,6 +1466,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":19.0,
         "TYPE":"meter"
     },
     {
@@ -1329,6 +1476,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":16.0,
         "TYPE":"meter"
     },
     {
@@ -1338,6 +1486,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":20.0,
         "TYPE":"meter"
     },
     {
@@ -1347,6 +1496,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":8.0,
         "TYPE":"meter"
     },
     {
@@ -1356,6 +1506,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":51.0,
         "TYPE":"meter"
     },
     {
@@ -1365,6 +1516,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":10.0,
         "TYPE":"meter"
     },
     {
@@ -1374,6 +1526,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":25.0,
         "TYPE":"meter"
     },
     {
@@ -1383,6 +1536,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":9.0,
         "TYPE":"meter"
     },
     {
@@ -1392,6 +1546,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":26.0,
         "TYPE":"meter"
     },
     {
@@ -1401,6 +1556,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":39.0,
         "TYPE":"meter"
     },
     {
@@ -1410,6 +1566,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":73.0,
         "TYPE":"meter"
     },
     {
@@ -1419,6 +1576,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":25.0,
         "TYPE":"meter"
     },
     {
@@ -1428,6 +1586,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":35.0,
         "TYPE":"meter"
     },
     {
@@ -1437,6 +1596,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":50.0,
         "TYPE":"meter"
     },
     {
@@ -1446,6 +1606,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":8.0,
         "TYPE":"meter"
     },
     {
@@ -1455,6 +1616,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":76.0,
         "TYPE":"meter"
     },
     {
@@ -1464,6 +1626,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":20.0,
         "TYPE":"meter"
     },
     {
@@ -1473,6 +1636,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":50.0,
         "TYPE":"meter"
     },
     {
@@ -1482,6 +1646,7 @@
         "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":2.0,
         "TYPE":"meter"
     },
     {
@@ -1491,6 +1656,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":24.0,
         "TYPE":"meter"
     },
     {
@@ -1500,6 +1666,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":35.0,
         "TYPE":"meter"
     },
     {
@@ -1509,6 +1676,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":77.0,
         "TYPE":"meter"
     },
     {
@@ -1518,6 +1686,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":46.0,
         "TYPE":"meter"
     },
     {
@@ -1527,6 +1696,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":96.0,
         "TYPE":"meter"
     },
     {
@@ -1536,6 +1706,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":32.0,
         "TYPE":"meter"
     },
     {
@@ -1545,6 +1716,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":16.0,
         "TYPE":"meter"
     },
     {
@@ -1554,6 +1726,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":21.0,
         "TYPE":"meter"
     },
     {
@@ -1563,6 +1736,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":13.0,
         "TYPE":"meter"
     },
     {
@@ -1572,6 +1746,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":36.0,
         "TYPE":"meter"
     },
     {
@@ -1581,6 +1756,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":32.0,
         "TYPE":"meter"
     },
     {
@@ -1590,6 +1766,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":175.0,
         "TYPE":"meter"
     },
     {
@@ -1599,6 +1776,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":17.0,
         "TYPE":"meter"
     },
     {
@@ -1608,6 +1786,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":28.0,
         "TYPE":"meter"
     },
     {
@@ -1617,6 +1796,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":31.0,
         "TYPE":"meter"
     },
     {
@@ -1626,6 +1806,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":30.0,
         "TYPE":"meter"
     },
     {
@@ -1635,6 +1816,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":58.0,
         "TYPE":"meter"
     },
     {
@@ -1644,6 +1826,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":8.0,
         "TYPE":"meter"
     },
     {
@@ -1653,6 +1836,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":9.0,
         "TYPE":"meter"
     },
     {
@@ -1662,6 +1846,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":25.0,
         "TYPE":"meter"
     },
     {
@@ -1671,6 +1856,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":36.0,
         "TYPE":"meter"
     },
     {
@@ -1680,6 +1866,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":40.0,
         "TYPE":"meter"
     },
     {
@@ -1689,6 +1876,7 @@
         "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
         "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
         "BASE_RATE":0.25,
+        "COUNTS":9.0,
         "TYPE":"meter"
     }
 ]
