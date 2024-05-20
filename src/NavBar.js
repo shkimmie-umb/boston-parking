@@ -1,5 +1,6 @@
 import React from 'react'
 import { BsFillInfoCircleFill } from "react-icons/bs"
+// import logo from './logo/favicon.png'
 
 export default function NavBar(props) {
     const {state, setState} = props
@@ -15,8 +16,11 @@ export default function NavBar(props) {
         })
     }
 
+    // const logo = require("./logo/favicon.png");
+
     return (
         <div className="navbar">
+        {/* <img src = {logo} alt ="Logo"/> */}
         <h1>Boston Parking</h1>
         <div className="navbar-links">
             <a href = 'https://shkimmie-umb.github.io/CS697_portfolio/' target="_blank" rel="noopener noreferrer"> SangHyuk Portfolio</a>

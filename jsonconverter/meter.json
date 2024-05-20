@@ -1,0 +1,1882 @@
+[
+    {
+        "LONGITUDE":-71.072687,
+        "LATITUDE":42.352311,
+        "STREET":"NEWBURY ST A-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":6.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.073982,
+        "LATITUDE":42.352023,
+        "STREET":"NEWBURY ST B-C",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":6.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.076327,
+        "LATITUDE":42.351385,
+        "STREET":"NEWBURY ST C-D",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":6.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.078706,
+        "LATITUDE":42.350686,
+        "STREET":"NEWBURY ST D-E",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.080833,
+        "LATITUDE":42.350109,
+        "STREET":"NEWBURY ST E-F",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":6.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.082804,
+        "LATITUDE":42.349575,
+        "STREET":"NEWBURY ST F-G",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.081961,
+        "LATITUDE":42.349408,
+        "STREET":"FAIRFIELD ST B-N",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086016,
+        "LATITUDE":42.348707,
+        "STREET":"NEWBURY ST H-M",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086414,
+        "LATITUDE":42.347731,
+        "STREET":"BOYLSTON ST M-H",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.083807,
+        "LATITUDE":42.348682,
+        "STREET":"GLOUCESTER ST N-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.085607,
+        "LATITUDE":42.348512,
+        "STREET":"HEREFORD ST B-N",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.084624,
+        "LATITUDE":42.348964,
+        "STREET":"NEWBURY ST G-H",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.084548,
+        "LATITUDE":42.348204,
+        "STREET":"BOYLSTON ST H-G",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.083045,
+        "LATITUDE":42.348451,
+        "STREET":"BOYLSTON ST G-F",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.085973,
+        "LATITUDE":42.347651,
+        "STREET":"BOYLSTON ST ST C-D",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.080387,
+        "LATITUDE":42.349157,
+        "STREET":"BOYLSTON ST F-E",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.079285,
+        "LATITUDE":42.349258,
+        "STREET":"EXETER ST B-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.079733,
+        "LATITUDE":42.349781,
+        "STREET":"EXETER ST N-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.076681,
+        "LATITUDE":42.350198,
+        "STREET":"BOYLSTON ST D-C",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.078679,
+        "LATITUDE":42.349797,
+        "STREET":"BOYLSTON ST E-D",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.075068,
+        "LATITUDE":42.350215,
+        "STREET":"CLARENDON ST B-ST JAMES",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.077604,
+        "LATITUDE":42.350479,
+        "STREET":"DARTMOUTH ST B-N",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.074696,
+        "LATITUDE":42.350742,
+        "STREET":"BOYLSTON ST C-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":6.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.075388,
+        "LATITUDE":42.350973,
+        "STREET":"CLARENDON ST N-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.072851,
+        "LATITUDE":42.350637,
+        "STREET":"BERKELEY ST ST J-B",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.072218,
+        "LATITUDE":42.351407,
+        "STREET":"BOYLSTON ST B-A",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.073508,
+        "LATITUDE":42.351573,
+        "STREET":"BERKELEY ST B-N",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.070017,
+        "LATITUDE":42.352185,
+        "STREET":"BOYLSTON ST A-C ST SO",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.069037,
+        "LATITUDE":42.350594,
+        "STREET":"STUART ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":102.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.068935,
+        "LATITUDE":42.350568,
+        "STREET":"CHURCH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":7.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.068988,
+        "LATITUDE":42.350747,
+        "STREET":"COLUMBUS AV",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":108.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.052763,
+        "LATITUDE":42.352738,
+        "STREET":"CONGRESS ST D-A",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.0593,
+        "LATITUDE":42.36508,
+        "STREET":"BEVERLY ST C-V",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":3.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.063974,
+        "LATITUDE":42.361863,
+        "STREET":"STANIFORD ST O-C",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.063932,
+        "LATITUDE":42.362976,
+        "STREET":"STANIFORD ST L-O",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.063997,
+        "LATITUDE":42.364712,
+        "STREET":"LOMASNEY WY N-S",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.059283,
+        "LATITUDE":42.3639,
+        "STREET":"CANAL ST NC-V",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.060096,
+        "LATITUDE":42.364596,
+        "STREET":"CANAL ST V-C",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.061224,
+        "LATITUDE":42.363934,
+        "STREET":"PORTLAND ST V-C",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":6.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054113,
+        "LATITUDE":42.358353,
+        "STREET":"BROAD ST S-F",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.053078,
+        "LATITUDE":42.35766,
+        "STREET":"BROAD ST F-C",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.053515,
+        "LATITUDE":42.357871,
+        "STREET":"BROAD ST C-M",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":2.0,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054144,
+        "LATITUDE":42.358089,
+        "STREET":"BROAD ST M-C",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054468,
+        "LATITUDE":42.35901,
+        "STREET":"BROAD ST C-S",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054395,
+        "LATITUDE":42.358553,
+        "STREET":"BROAD ST S-W",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.052491,
+        "LATITUDE":42.357416,
+        "STREET":"BROAD ST F-W",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.062641,
+        "LATITUDE":42.355756,
+        "STREET":"TREMONT ST W-TP",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.06315,
+        "LATITUDE":42.355261,
+        "STREET":"TREMONT ST TP-W",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":1.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.063426,
+        "LATITUDE":42.354726,
+        "STREET":"TREMONT ST W-A",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.051135,
+        "LATITUDE":42.363396,
+        "STREET":"ATLANTIC AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":53.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054265,
+        "LATITUDE":42.361809,
+        "STREET":"CROSS ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.075356,
+        "LATITUDE":42.351475,
+        "STREET":"NEWBURY ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":7.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.079773,
+        "LATITUDE":42.350225,
+        "STREET":"EXETER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":58.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.084002,
+        "LATITUDE":42.34905,
+        "STREET":"GLOUCESTER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":52.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.082299,
+        "LATITUDE":42.34882,
+        "STREET":"BOYLSTON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":131.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.082038,
+        "LATITUDE":42.349546,
+        "STREET":"FAIRFIELD ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 720",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":49.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.06144,
+        "LATITUDE":42.36355,
+        "STREET":"MERRIMAC ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":13.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.062563,
+        "LATITUDE":42.3643,
+        "STREET":"LANCASTER ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.059762,
+        "LATITUDE":42.363397,
+        "STREET":"FRIEND ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":3.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.058615,
+        "LATITUDE":42.365579,
+        "STREET":"MEDFORD ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-FRI $0.25 120, 08:00AM-08:00PM SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-FRI, 08:00PM-24:00AM SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":7.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.058559,
+        "LATITUDE":42.366491,
+        "STREET":"N WASHINGTON",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":26.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.064853,
+        "LATITUDE":42.366911,
+        "STREET":"NASHUA ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":16.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.042454,
+        "LATITUDE":42.346556,
+        "STREET":"SUMMER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":135.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.042511,
+        "LATITUDE":42.346129,
+        "STREET":"D STREET",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":143.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.062959,
+        "LATITUDE":42.361097,
+        "STREET":"BOWDOIN ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":33.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.064479,
+        "LATITUDE":42.361307,
+        "STREET":"CAMBRIDGE ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":87.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.066765,
+        "LATITUDE":42.361556,
+        "STREET":"BLOSSOM ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":54.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.067952,
+        "LATITUDE":42.362077,
+        "STREET":"N ANDERSON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":12.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.044133,
+        "LATITUDE":42.349542,
+        "STREET":"CONGRESS ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":70.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.044883,
+        "LATITUDE":42.349729,
+        "STREET":"EAST SERVICE RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":14.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.046973,
+        "LATITUDE":42.349749,
+        "STREET":"BOSTON WHARF RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":19.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.052526,
+        "LATITUDE":42.351861,
+        "STREET":"DORCHESTER AV",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":4.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.049651,
+        "LATITUDE":42.349244,
+        "STREET":"MELCHER ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054379,
+        "LATITUDE":42.374855,
+        "STREET":"FIRST AVENUE",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":33.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.052954,
+        "LATITUDE":42.376649,
+        "STREET":"NINTH STREET",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":9.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054062,
+        "LATITUDE":42.375379,
+        "STREET":"SEVENTH STREET",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":16.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054779,
+        "LATITUDE":42.374928,
+        "STREET":"SIXTH STREET",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":13.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.052505,
+        "LATITUDE":42.345098,
+        "STREET":"A STREET",
+        "PAY_POLICY":"10:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-10:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":56.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.062371,
+        "LATITUDE":42.361913,
+        "STREET":"NEW CHARDON ST",
+        "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120, 09:30AM-04:00PM MON-FRI $0.25 120, 06:00PM-08:00PM MON-FRI $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":39.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.059909,
+        "LATITUDE":42.358983,
+        "STREET":"TREMONT ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":243.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.056834,
+        "LATITUDE":42.360829,
+        "STREET":"UNION ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":21.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.057388,
+        "LATITUDE":42.356658,
+        "STREET":"DEVONSHIRE ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":31.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.055524,
+        "LATITUDE":42.356882,
+        "STREET":"MILK ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":65.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.053175,
+        "LATITUDE":42.358361,
+        "STREET":"INDIA ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":35.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.05283,
+        "LATITUDE":42.358814,
+        "STREET":"CENTRAL ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054613,
+        "LATITUDE":42.35896,
+        "STREET":"BROAD ST",
+        "PAY_POLICY":"11:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-11:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054349,
+        "LATITUDE":42.358349,
+        "STREET":"WATER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":14.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054981,
+        "LATITUDE":42.357937,
+        "STREET":"BATTERYMARCH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":42.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054927,
+        "LATITUDE":42.357405,
+        "STREET":"KILBY ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":8.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.04818,
+        "LATITUDE":42.352899,
+        "STREET":"SEAPORT BLVD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":46.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.046685,
+        "LATITUDE":42.3533,
+        "STREET":"NORTHERN AV",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":48.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.054919,
+        "LATITUDE":42.355948,
+        "STREET":"PEARL ST",
+        "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120, 09:30AM-08:00PM MON-FRI $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":49.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.053879,
+        "LATITUDE":42.355276,
+        "STREET":"HIGH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":49.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.052311,
+        "LATITUDE":42.355457,
+        "STREET":"OLIVER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":34.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.05267,
+        "LATITUDE":42.357342,
+        "STREET":"FRANKLIN ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":31.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.053522,
+        "LATITUDE":42.357658,
+        "STREET":"BATTERYMARCH SHORT ARM",
+        "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.060111,
+        "LATITUDE":42.350454,
+        "STREET":"HUDSON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":10.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.060779,
+        "LATITUDE":42.350558,
+        "STREET":"TYLER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":11.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.061493,
+        "LATITUDE":42.351507,
+        "STREET":"BEACH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":22.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.061174,
+        "LATITUDE":42.352188,
+        "STREET":"HARRISON AV",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":221.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.059428,
+        "LATITUDE":42.352425,
+        "STREET":"KINGSTON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":22.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.059649,
+        "LATITUDE":42.352714,
+        "STREET":"AV DE LAFAYETTE",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":27.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.060441,
+        "LATITUDE":42.353312,
+        "STREET":"CHAUNCY ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":3.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.058858,
+        "LATITUDE":42.354697,
+        "STREET":"ARCH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":15.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.058033,
+        "LATITUDE":42.354771,
+        "STREET":"OTIS ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":3.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.05866,
+        "LATITUDE":42.353259,
+        "STREET":"BEDFORD ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":8.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.058836,
+        "LATITUDE":42.349981,
+        "STREET":"LINCOLN ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":30.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.057696,
+        "LATITUDE":42.349737,
+        "STREET":"SOUTH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":42.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.056271,
+        "LATITUDE":42.353675,
+        "STREET":"FEDERAL ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":10.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.058571,
+        "LATITUDE":42.352236,
+        "STREET":"SURFACE RD",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":23.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.06033,
+        "LATITUDE":42.350381,
+        "STREET":"KNEELAND ST",
+        "PAY_POLICY":"08:00AM-08:00PM SAT $0.25 120, 09:30AM-04:00PM MON-FRI $0.25 120, 06:00PM-08:00PM MON-FRI $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":33.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.063236,
+        "LATITUDE":42.350813,
+        "STREET":"WASHINGTON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":219.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.062421,
+        "LATITUDE":42.348722,
+        "STREET":"NASSAU ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":10.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.064141,
+        "LATITUDE":42.347338,
+        "STREET":"MARGINAL RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":72.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.066483,
+        "LATITUDE":42.348819,
+        "STREET":"CHARLES ST SOUTH",
+        "PAY_POLICY":"09:00AM-05:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:00AM MON-SAT, 05:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":37.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.066557,
+        "LATITUDE":42.3499,
+        "STREET":"CHARLES ST SO",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.066028,
+        "LATITUDE":42.350082,
+        "STREET":"WARRENTON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":10.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.065645,
+        "LATITUDE":42.348431,
+        "STREET":"SHAWMUT AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":20.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.067877,
+        "LATITUDE":42.351711,
+        "STREET":"PARK PLAZA",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":15.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.069474,
+        "LATITUDE":42.348675,
+        "STREET":"ARLINGTON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":25.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.070565,
+        "LATITUDE":42.34633,
+        "STREET":"BERKELEY ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":146.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.075255,
+        "LATITUDE":42.346055,
+        "STREET":"DARTMOUTH ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":82.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.070995,
+        "LATITUDE":42.341009,
+        "STREET":"PELHAM ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":3.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.064602,
+        "LATITUDE":42.343503,
+        "STREET":"EAST BERKELEY ST",
+        "PAY_POLICY":"08:00AM-06:00PM SAT $0.25 120, 09:30AM-06:00PM MON-FRI $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-09:30AM MON-FRI, 00:00AM-08:00AM SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":31.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.064395,
+        "LATITUDE":42.344564,
+        "STREET":"TRAVELER ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":18.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.077505,
+        "LATITUDE":42.349069,
+        "STREET":"HUNTINGTON AV",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":151.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.079023,
+        "LATITUDE":42.348775,
+        "STREET":"BLAGDEN ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":22.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.075196,
+        "LATITUDE":42.348352,
+        "STREET":"TRINITY PL",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.074341,
+        "LATITUDE":42.348744,
+        "STREET":"CLARENDON ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":89.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.073443,
+        "LATITUDE":42.348328,
+        "STREET":"STANHOPE ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":7.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.072383,
+        "LATITUDE":42.350437,
+        "STREET":"ST JAMES AV",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":28.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.072712,
+        "LATITUDE":42.350739,
+        "STREET":"PROVIDENCE ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":26.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.071782,
+        "LATITUDE":42.353868,
+        "STREET":"COMMONWEALTH AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":721.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.074198,
+        "LATITUDE":42.354028,
+        "STREET":"MARLBOROUGH ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":29.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.074673,
+        "LATITUDE":42.354785,
+        "STREET":"BEACON ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":482.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.070855,
+        "LATITUDE":42.359626,
+        "STREET":"CHARLES ST",
+        "PAY_POLICY":"04:00PM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-04:00PM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":175.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.062824,
+        "LATITUDE":42.357388,
+        "STREET":"PARK ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":16.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.085728,
+        "LATITUDE":42.34879,
+        "STREET":"HEREFORD ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":55.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.089522,
+        "LATITUDE":42.350724,
+        "STREET":"MASSACHUSETTS AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":57.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.088387,
+        "LATITUDE":42.348057,
+        "STREET":"NEWBURY EXT",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":72.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086717,
+        "LATITUDE":42.343552,
+        "STREET":"EDGERLY RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":18.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.089953,
+        "LATITUDE":42.344081,
+        "STREET":"HEMENWAY ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":55.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.094381,
+        "LATITUDE":42.347056,
+        "STREET":"IPSWICH ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":41.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.087144,
+        "LATITUDE":42.347292,
+        "STREET":"CAMBRIA ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":5.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086593,
+        "LATITUDE":42.346968,
+        "STREET":"ST CECILIA ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":8.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086976,
+        "LATITUDE":42.346471,
+        "STREET":"BELVIDERE ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":35.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086412,
+        "LATITUDE":42.346916,
+        "STREET":"SCOTIA ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":19.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.082857,
+        "LATITUDE":42.344165,
+        "STREET":"CUMBERLAND ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":16.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.081503,
+        "LATITUDE":42.345151,
+        "STREET":"W NEWTON ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":20.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.07828,
+        "LATITUDE":42.345945,
+        "STREET":"HARCOURT ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":8.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.079018,
+        "LATITUDE":42.346318,
+        "STREET":"ST BOTOLPH ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":51.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.079605,
+        "LATITUDE":42.345976,
+        "STREET":"GARRISON ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":10.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.086644,
+        "LATITUDE":42.3416,
+        "STREET":"GAINSBOROUGH ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":25.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.088964,
+        "LATITUDE":42.340569,
+        "STREET":"OPERA PL",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":9.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.090639,
+        "LATITUDE":42.339938,
+        "STREET":"FORSYTH ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":26.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.100604,
+        "LATITUDE":42.336694,
+        "STREET":"PALACE RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":39.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.098408,
+        "LATITUDE":42.338485,
+        "STREET":"EVANS WY",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":73.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.096738,
+        "LATITUDE":42.338952,
+        "STREET":"MUSEUM RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":25.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.092348,
+        "LATITUDE":42.339294,
+        "STREET":"FORSYTH WY",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":35.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.0928,
+        "LATITUDE":42.338439,
+        "STREET":"PARKER ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":50.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.10826,
+        "LATITUDE":42.338301,
+        "STREET":"JOSLIN PL",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":8.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.10847,
+        "LATITUDE":42.337904,
+        "STREET":"BROOKLINE AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":76.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.097804,
+        "LATITUDE":42.344665,
+        "STREET":"YAWKEY WY",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":20.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.099174,
+        "LATITUDE":42.345186,
+        "STREET":"VAN NESS ST",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":50.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.099181,
+        "LATITUDE":42.344932,
+        "STREET":"ROSS WAY",
+        "PAY_POLICY":"08:00AM-08:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 08:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":2.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.099864,
+        "LATITUDE":42.346197,
+        "STREET":"OVERLAND ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":24.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.13072,
+        "LATITUDE":42.350024,
+        "STREET":"HARVARD AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":35.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.153092,
+        "LATITUDE":42.337784,
+        "STREET":"CHESTNUT HILL AV",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":77.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.070214,
+        "LATITUDE":42.335957,
+        "STREET":"EAST NEWTON",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":46.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.069873,
+        "LATITUDE":42.335995,
+        "STREET":"ALBANY ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":96.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.073227,
+        "LATITUDE":42.336381,
+        "STREET":"E CONCORD ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":32.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.066112,
+        "LATITUDE":42.339432,
+        "STREET":"MALDEN ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":16.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.067491,
+        "LATITUDE":42.339242,
+        "STREET":"WAREHAM ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":21.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.06719,
+        "LATITUDE":42.338208,
+        "STREET":"PLYMPTON ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":13.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.069648,
+        "LATITUDE":42.339198,
+        "STREET":"E DEDHAM ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":36.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.068556,
+        "LATITUDE":42.337417,
+        "STREET":"E CANTON ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":32.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.100319,
+        "LATITUDE":42.350224,
+        "STREET":"BAY STATE RD",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":175.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.095229,
+        "LATITUDE":42.349779,
+        "STREET":"RALEIGH ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":17.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.097106,
+        "LATITUDE":42.349161,
+        "STREET":"DEERFIELD ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":28.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.10048,
+        "LATITUDE":42.349442,
+        "STREET":"SILBER WY",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":31.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.103356,
+        "LATITUDE":42.350681,
+        "STREET":"GRANBY ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":30.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.093319,
+        "LATITUDE":42.348016,
+        "STREET":"NEWBURY ST EXT",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":58.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.118471,
+        "LATITUDE":42.352124,
+        "STREET":"HARRY AGGANIS WY",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 120",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":8.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.120902,
+        "LATITUDE":42.353257,
+        "STREET":"BABCOCK ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":9.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.125099,
+        "LATITUDE":42.352348,
+        "STREET":"MALVERN ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":25.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.124601,
+        "LATITUDE":42.354214,
+        "STREET":"ASHFORD ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":36.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.121426,
+        "LATITUDE":42.352996,
+        "STREET":"GARDNER ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":40.0,
+        "TYPE":"meter"
+    },
+    {
+        "LONGITUDE":-71.122887,
+        "LATITUDE":42.353771,
+        "STREET":"ALCORN ST",
+        "PAY_POLICY":"08:00AM-06:00PM MON-SAT $0.25 240",
+        "PARK_NO_PAY":"00:00AM-24:00AM SUN, 00:00AM-08:00AM MON-SAT, 06:00PM-24:00AM MON-SAT",
+        "BASE_RATE":0.25,
+        "COUNTS":9.0,
+        "TYPE":"meter"
+    }
+]
