@@ -1,6 +1,6 @@
 {
-  "homepage": "http://arielledom.github.io/food-map",
-  "name": "food-map",
+  "homepage": "https://shkimmie-umb.github.io/boston-parking/",
+  "name": "boston-parking",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,12 +10,18 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
+    "danfojs": "^1.1.2",
+    "data-forge": "^1.10.2",
+    "data-forge-fs": "0.0.9",
+    "dataframe-js": "^1.4.4",
     "date-fns": "^2.16.1",
     "dotenv": "^8.2.0",
-    "gh-pages": "^3.1.0",
+    "fraction.js": "^4.3.4",
+    "gauss": "^0.2.12",
     "material-ui": "^0.20.2",
     "multiselect-react-dropdown": "^1.6.1",
     "node-modules": "^1.0.1",
+    "pandas-js": "^0.2.4",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-dropdown": "^1.9.0",
@@ -38,7 +44,11 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "watch": "npm-watch"
+  },
+  "watch": {
+    "build": "src/"
   },
   "eslintConfig": {
     "extends": [
@@ -48,7 +58,9 @@
   },
   "devDependencies": {
     "@svgr/cli": "^5.5.0",
-    "file-loader": "^6.2.0"
+    "file-loader": "^6.2.0",
+    "gh-pages": "^3.2.3",
+    "npm-watch": "^0.13.0"
   },
   "browserslist": [
     ">0.2%",

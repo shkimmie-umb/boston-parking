@@ -4,13 +4,20 @@ import Geocoder from 'react-map-gl-geocoder'
 import { useForm } from "react-hook-form";
 import foodData from "./food-map-data.json"
 import parkingData from "./meter.json"
+import garageData from "./snowgarage.json"
+import hitandrunData from "./leavingscene.json"
+import vandalismData from "./vandalism.json"
 import CheckboxMenu from './Checkbox'
 import NavBar from './NavBar'
 import PopCard from './PopCard'
 import ParkingPopCard from './ParkingPopCard'
+import GaragePopCard from './GaragePopCard'
+import HitandrunPopCard from './HitandrunPopCard'
 import MapControls from './MapControls'
 import MarkerCard from './MarkerCard'
 import ParkingMarkerCard from './ParkingMarkerCard'
+import GarageMarkerCard from './GarageMarkerCard'
+import HitandrunMarkerCard from './HitandrunMarkerCard'
 import InfoWindow from './InfoWindow'
 
 import './App.css';
@@ -126,6 +133,9 @@ const App = () => {
   //Markers
   const [selectedFood, setSelectedFood] = useState(null)
   const [selectedSpot, setSelectedSpot] = useState(null)
+  const [selectedGarage, setSelectedGarage] = useState(null)
+  const [selectedHitandrun, setSelectedHitandrun] = useState(null)
+  const [selectedVandalism, setSelectedVandalism] = useState(null)
   
   useEffect(() => {
       const listner = (e) => {
@@ -189,6 +199,57 @@ const App = () => {
           <ParkingPopCard 
             setSelectedSpot ={setSelectedSpot} 
             selectedSpot = {selectedSpot}
+          />
+        ) : null}
+
+        {/* Garage icons */}
+        {/* {garageData.map((garage, index) => (
+          <GarageMarkerCard 
+            key = {index}
+            garage = {garage}
+            setSelectedGarage = {setSelectedGarage}
+            state = {state}
+          />
+        ))} */}
+        {/* Garage popup */}
+        {/* {selectedGarage ? (
+          <GaragePopCard 
+            setSelectedGarage ={setSelectedGarage} 
+            selectedGarage = {selectedGarage}
+          />
+        ) : null} */}
+
+        {/* Hitandrun icons */}
+        {hitandrunData.map((hitandrun, index) => (
+          <HitandrunMarkerCard 
+            key = {index}
+            hitandrun = {hitandrun}
+            setSelectedHitandrun = {setSelectedHitandrun}
+            state = {state}
+          />
+        ))}
+        {/* Hitandrun popup */}
+        {selectedHitandrun ? (
+          <HitandrunPopCard 
+            setSelectedHitandrun ={setSelectedHitandrun} 
+            selectedHitandrun = {selectedHitandrun}
+          />
+        ) : null}
+
+        {/* Vandalism icons */}
+        {vandalismData.map((vandalism, index) => (
+          <HitandrunMarkerCard 
+            key = {index}
+            hitandrun = {vandalism}
+            setSelectedHitandrun = {setSelectedVandalism}
+            state = {state}
+          />
+        ))}
+        {/* Vandalism popup */}
+        {selectedVandalism ? (
+          <HitandrunPopCard 
+            setSelectedHitandrun ={setSelectedVandalism} 
+            selectedHitandrun = {selectedVandalism}
           />
         ) : null}
 

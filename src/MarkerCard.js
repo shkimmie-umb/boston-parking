@@ -36,7 +36,7 @@ export default function MarkerCard(props){
             <button 
               style = {{display: hideOrShow(food.type, food.cost, food.status)}}
               className = "marker-btn" onClick = {e => {
-                e.preventDefault()
+                // e.preventDefault()
                 setSelectedFood(food)
               }}>
               <img src = {getIcon(food.type)} alt ="Food Icon"/>

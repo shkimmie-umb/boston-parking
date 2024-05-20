@@ -6,16 +6,11 @@ export default function NavBar(props) {
 
     const changeInfoBarState = () =>{
         setState({
-            free: state.free,
-            $: state.$,
-            $$: state.$$,
-            $$$: state.$$$,
-            status: state.status,
-            Greenmarket: state.Greenmarket,
-            Grocery: state.Grocery,
-            GrabAndGo: state.GrabAndGo,
-            FoodPantry: state.FoodPantry,
-            SoupKitchen: state.SoupKitchen,
+            meter: state.meter,
+            snow_garage: state.snow_garage,
+            street_sweeping: state.street_sweeping,
+            leaving_scene: state.leaving_scene,
+            vandalism: state.vandalism,
             closeInfoBar: !state.closeInfoBar
         })
     }
@@ -24,9 +19,9 @@ export default function NavBar(props) {
         <div className="navbar">
         <h1>Boston Parking</h1>
         <div className="navbar-links">
-            <a href = 'https://www1.nyc.gov/site/coronavirus/index.page' target="_blank" rel="noopener noreferrer"> COVID-19 Info</a>
-            <a href = 'https://a069-access.nyc.gov/accesshra/' target="_blank" rel="noopener noreferrer"> ACCESS HRA</a>
-            <a href = 'https://www1.nyc.gov/site/helpnownyc/index.page' target="_blank" rel="noopener noreferrer"> Help Now NYC</a>
+            <a href = 'https://shkimmie-umb.github.io/CS697_portfolio/' target="_blank" rel="noopener noreferrer"> SangHyuk Portfolio</a>
+            <a href = 'https://github.com/shkimmie-umb/boston-parking' target="_blank" rel="noopener noreferrer"> Code</a>
+            <a href = 'https://data.boston.gov/dataset/?q=parking' target="_blank" rel="noopener noreferrer"> Data</a>
         </div>
 
         <div className = 'info-icon'>

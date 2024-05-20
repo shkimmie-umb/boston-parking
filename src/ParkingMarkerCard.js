@@ -6,6 +6,9 @@ import {Marker} from 'react-map-gl'
 // import grabIcon from './images/grab.svg'
 // import foodPantryIcon from './images/foodpantry.svg'
 import meterIcon from './images/parkingmeter.svg'
+import snowGarageIcon from './images/snowgarage.svg'
+import hitandrunIcon from './images/leavingscene.svg'
+import vandalismIcon from './images/vandalism.svg'
 
 export default function ParkingMarkerCard(props){
     const {spot, setSelectedSpot, state} = props
@@ -18,6 +21,9 @@ export default function ParkingMarkerCard(props){
         // if(type === "SoupKitchen") icon = soupIcon
         // if(type === "FoodPantry") icon = foodPantryIcon
         if(type === "meter") icon = meterIcon
+        if(type === "snow_garage") icon = snowGarageIcon
+        if(type === "leaving_scene") icon = hitandrunIcon
+        if(type === "vandalism") icon = vandalismIcon
         return icon
     }
 
@@ -36,7 +42,7 @@ export default function ParkingMarkerCard(props){
             <button 
               style = {{display: hideOrShow(spot.TYPE)}}
               className = "marker-btn" onClick = {e => {
-                e.preventDefault()
+                // e.preventDefault()
                 setSelectedSpot(spot)
               }}>
               <img src = {getIcon(spot.TYPE)} alt ="Parking Icon"/>

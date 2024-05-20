@@ -16,8 +16,15 @@ export default function CheckboxMenu(props) {
     const {register, handleSubmit, onSubmit} = props
 
     const [state, setState] = useState({
-        revealFilter: true
+        revealFilter: true,
     })
+
+    const changeMeterState = () =>{
+        setState({
+            meter: !state.meter,
+            revealFilter: state.revealFilter
+        })
+    }
 
     const UpAndDown = () => {
         if(state.revealFilter) return 'block'
@@ -29,6 +36,8 @@ export default function CheckboxMenu(props) {
             revealFilter: !state.revealFilter
         })
     }
+
+
 
   return (
     <div className = "checkbox">
