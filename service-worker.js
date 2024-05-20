@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/boston-parking/precache-manifest.e88c9c4248728024e70d93d34fd1f952.js"
+  "/boston-parking/precache-manifest.eaafeb44fce43ea87bd49bf764f3f2a7.js"
 );
 
 workbox.clientsClaim();
